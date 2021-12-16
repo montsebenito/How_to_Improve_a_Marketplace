@@ -18,8 +18,8 @@ Please read this [project' post](https://montsebenito.github.io/improvemarketpla
 - [02Olist_DataWrangling:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/02Olist_DataWrangling.ipynb) Merged, Cleaned & Prepared Data to create a 'basic Seller Dataset' based on their characteristics, acquisition journey and sales to date. Also wranged a second version including (cleaned) location data.
 - [03Olist_ProductBusinessSegments:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/03Olist_ProductBusinessSegments.ipynb) Answered business questions: 
     -Is there any Business Segment/Product Category doing particularly well … or particularly badly? (Sellers acquired between Dic,2017-Aug,2018)
-- [04Olist_SellerSegmentation_Binary:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/04Olist_SellerSegmentation_Binary.ipynb) Seller Segmentation based on Sale/NoSale. What does it take to sell?
-- [05Olist_SellerSegmentation_LTV:] Seller Segmentation based on avg LTV (1 month). What does it take to be a top seller?
+- [04Olist_SellerSegmentation_Binary:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/04Olist_SellerSegmentation_SaleNoSale.ipynb) Seller Segmentation based on Sale/NoSale. What does it take to sell?
+- [05Olist_SellerSegmentation_LTV:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/04Olist_SellerSegmentation_Regression.ipynb) Seller Segmentation based on avg LTV (1 month). What does it take to be a top seller?
 
 
 ## Acknowledgements:

@@ -20,7 +20,7 @@ Please read this [project' post](https://montsebenito.github.io/improvemarketpla
     -Is there any Business Segment/Product Category doing particularly well … or particularly badly? (Sellers acquired between Dic,2017-Aug,2018)
 - [04Olist_SellerSegmentation_Binary:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/04Olist_SellerSegmentation_SaleNoSale.ipynb) Seller Segmentation based on Sale/NoSale. What does it take to sell?
 - [05Olist_SellerSegmentation_LTV:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/05Olist_SellerSegmentation_Regression.ipynb) Seller Segmentation based on avg LTV (1 month). What does it take to be a top seller?
--[06Olist Channels:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/06Olist_Channels.ipynb)What Channels bring in the most Top Sellers?
+- [06Olist Channels:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/06Olist_Channels.ipynb)What Channels bring in the most Top Sellers?
 
 ## Acknowledgements:
 - JungJoon Lee - on [EDA with eCommerce Marketplace (Seller Side)](https://www.kaggle.com/jungjoonlee/eda-with-ecommerce-marketplace-seller-side)

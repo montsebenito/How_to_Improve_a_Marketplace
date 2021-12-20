@@ -1,9 +1,10 @@
 ## How to improve a Marketplace: Project Overview
-- Segmented sellers based on sale/no_sale as well as on avg LTV (rmse ~BRL289) to find what characteristics makes a top seller.
-- Explored and Wranged data from 9 datasets with +100k observations (one of the datasets have +1M observations!) and max 15 variables. 
-- Engineered Features and cleaned city names. Wordclouds of good/bad/neutral scored reviews
-- Optimized Random Forest Regressor and Classifier using GridCV.
-- Extracted actionable insights from model with Partial Dependant Plots.
+Segmented sellers based on sale/no_sale as well as on avg LTV (rmse ~BRL289) to find what characteristics makes a top seller, following CRISP-DM process model.
+- Business Understanding
+- Data Understanding: Explored and Wranged data from 9 datasets with +100k observations (one of the datasets have +1M observations!) and max 15 variables. Wordclouds of good/bad/neutral scored reviews
+- Data Preparation: Engineered Features and cleaned city names. Dealt with missing values and encoded categorical data.
+- Data Modeling: Optimized Random Forest Regressor and Classifier using GridCV.
+- Results Evaluation: Extracted actionable insights from model with Partial Dependant Plots.
 
 
 ## Code and Resources Used
@@ -22,7 +23,8 @@ Please read this [project' post](https://montsebenito.github.io/improvemarketpla
 - [05Olist_SellerSegmentation_LTV:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/05Olist_SellerSegmentation_Regression.ipynb) Seller Segmentation based on avg LTV (1 month). What does it take to be a top seller?
 - [06Olist Channels:](https://github.com/montsebenito/How_to_Improve_a_Marketplace/blob/main/06Olist_Channels.ipynb)What Channels bring in the most Top Sellers?
 
-## Acknowledgements:
+
+## Acknowledgements (and praise!):
 - JungJoon Lee - on [EDA with eCommerce Marketplace (Seller Side)](https://www.kaggle.com/jungjoonlee/eda-with-ecommerce-marketplace-seller-side)
 - Eduardo Cuducos - on getting a [clean list of Brazillian cities](https://github.com/cuducos/brazilian-cities/blob/master/cities.py)
 - Gene Diaz jr - on [stopwords in Portuguese](https://github.com/stopwords-iso/stopwords-pt)

@@ -1,10 +1,10 @@
 ## How to improve a Marketplace: Project Overview
-Segmented sellers based on sale/no_sale as well as on avg LTV (rmse ~BRL289) to find what characteristics makes a top seller, following CRISP-DM process model.
-- Business Understanding
-- Data Understanding: Explored and Wranged data from 9 datasets with +100k observations (one of the datasets have +1M observations!) and max 15 variables. Wordclouds of good/bad/neutral scored reviews
-- Data Preparation: Engineered Features and cleaned city names. Dealt with missing values and encoded categorical data.
-- Data Modeling: Optimized Random Forest Regressor and Classifier using GridCV.
-- Results Evaluation: Extracted actionable insights from model with Partial Dependant Plots.
+Segmented sellers based on sale/no_sale as well as on avg LTV (rmse ~BRL289) to find what characteristics makes a top seller, following **CRISP-DM** process model.
+- **Business Understanding**
+- **Data Understanding:** Explored and Wranged data from 9 datasets with +100k observations (one of the datasets have +1M observations!) and max 15 variables. Wordclouds of good/bad/neutral scored reviews
+- **Data Preparation:** Engineered Features and cleaned city names. Dealt with missing values and encoded categorical data.
+- **Data Modeling:** Optimized Random Forest Regressor and Classifier using GridCV.
+- **Results Evaluation:** Extracted actionable insights from model with Partial Dependant Plots.
 
 
 ## Code and Resources Used
